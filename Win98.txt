@@ -1,0 +1,5 @@
+windows 98 virtualization notes
+- has to be run in VMware, Hyper-V doesn't support it
+- 1cpu, 256mb RAM, 8GB hard drive
+	- VMware will recommend this config
+- archive.org iso is missing DLLs for 98 explorer
